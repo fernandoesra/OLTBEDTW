@@ -1,0 +1,11 @@
+NAME_ESP;NAME_ENG;DESCRIPTION_ESP;DESCRIPTION_ENG;EFFECT
+Herida;Wound;Aunia recibe un poco de daño, por suerte solo es superficial.;Aunia takes a bit of damage, luckily it's only superficial.;remove_health
+Curación;Healing;Aunia se siente un poco mejor.;Aunia feels a little better.;add_health
+Horrorizada;Horrified;Aunia siente que algo la está siguiendo, pero no hay nadie más que ella aquí.;Aunia feels that something is following her, but there is no one but her here.;remove_mind
+Esperanzada;Hopeful;Nada puede atormentar a Aunia ahora.;Nothing can torment Aunia now.;add_mind
+Hambrienta;Hungry;Aunia necesita encontrar algo para comer.;Aunia needs to find something to eat.;remove_hunger
+Alimentada;Fed;El hambre de Aunia se calma momentáneamente.;Aunia's hunger momentarily subsides.;add_hunger
+Cansada;Tired;Aunia necesita descansar un momento.;Aunia needs to rest for a moment.;remove_rest
+Vigilante;Vigilant;Aunia tiene fuerzas renovadas, siente que hoy apenas necesitará dormir.;Aunia has renewed strength, she feels that today she will barely need sleep.;add_rest
+Rezagada;Delayed;Aunia siente todo su cuerpo rígido.;Aunia feels her entire body rigid.;remove_action
+Hiperactiva;Hyperactive;Nada puede parar a Aunia.;Nothing can stop Aunia.;add_action

@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS testplace;
+
+CREATE TABLE IF NOT EXISTS testplace (
+    idTestPlace INTEGER PRIMARY KEY AUTOINCREMENT,
+    Name TEXT NOT NULL,
+    Description TEXT NOT NULL,
+    Type TEXT NOT NULL,
+    Icon INTEGER NOT NULL
+);

@@ -1,0 +1,156 @@
+Icon;PlaceType;Name_ESP;Name_ENG;Description_ESP;Description_ENG;Option1_ESP;Option1_ENG;Answer1_ESP;Answer1_ENG;Item1;Effect1;Option2_ESP;Option2_ENG;Answer2_ESP;Answer2_ENG;Item2;Effect2;Option3_ESP;Option3_ENG;Answer3_ESP;Answer3_ENG;Item3;Effect3#
+0;AU_HOUSE;Casa de Aunia;Aunia's House;"El refugio de madera ha sido el hogar de Aunia durante la última etapa de su vida. Al principio, cuando llegaron, se quedó en el asentamiento que Kara y Elbura habían montado. 
+
+Estuvo allí unos años pero pronto comprendió que no era su lugar. Pasó largo tiempo explorando el desconocido paisaje y cuando sintió que ya tenía suficiente levantó este hogar con sus manos y decidió pasar el resto de su vida aquí.
+
+Pero la vida discurre con lentitud y cuando quiso darse cuenta ya no quedaba nadie más que ella.
+
+Tenía que hacer una última cosa antes de irse y, para ello, debía despedirse de su hogar para siempre.
+";"The wooden shelter has been Aunia's home for the last part of her life. At first, when they arrived, she stayed in the settlement that Kara and Elbura had set up.
+
+She stayed there for a few years but soon realized that it was not her place. She spent a long time exploring the unknown landscape and when she felt she had had enough she built this home with her own hands and decided to spend the rest of her life here.
+
+But life goes by slowly and before she knew it, there was no one left but her.
+
+She had to do one last thing before she left and, to do so, she had to say goodbye to her home forever.";Buscar si Aunia ha olvidado algo en casa;Check if Aunia has forgotten something at home;Entre los pulcros estantes Aunia logra encontrar una ración que ya ni recordaba que tenía. Menos mal que ha decidido revisar antes de irse.;Among the neat shelves, Aunia manages to find a portion that she didn't even remember she had. Thank goodness she decided to check before leaving.;8;;Recordar buenos momentos en el hogar;Remembering good times at home;"El hogar ha acompañado a Aunia durante tanto tiempo que ya casi no recuerda cuando decidió levantarlo. Era un retiro de soledad y tranquilidad después de una vida demasiado larga y trepidante.
+
+Tantas cosas sucedieron fuera y tantas dentro que podría escribir cientos de libros con sus vivencias. Uno de sus momentos favoritos es cuando Kara vino a visitarla. Recibió muy pocas visitas desde que se separó del grupo, pero los días que Kara pasó allí evocaban en Aunia alegres recuerdos.";"Home has been with Aunia for so long that she can hardly remember when she decided to open it. It was a retreat of solitude and tranquility after a life that was too long and hectic.
+
+So many things happened outside and so many inside that she could write hundreds of books about her experiences. One of her favorite moments is when Kara came to visit her. She received very few visitors since she left the group, but the days Kara spent there evoked happy memories for Aunia.";;4;Visitar el descanso de Nala;Visit Nala's Rest;"Las contadas ocasiones en que Aunia había intentado domesticar alguna forma de vida en este lugar habían salido estrepitosamente mal. Salvo una. Nala fue su compañera fiel durante muchos años pero, tristemente y como sucede con los compañeros animales, tuvo que irse demasiado pronto. Esto se atenuaba aún más para Aunia, en comparación con ella todos se iban pronto.
+
+El recuerdo de Nala le trajo tristeza, pero también motivación para llegar al final de su viaje.";"The few times Aunia had tried to domesticate some form of life in this place had gone horribly wrong. Except for one. Nala was her faithful companion for many years but, sadly and as happens with animal companions, she had to leave too soon. This was even more attenuated for Aunia, in comparison to her, everyone left early.
+
+The memory of Nala brought her sadness, but also motivation to reach the end of her journey.";;8#
+0;STILLNESS;Stillness I;Stillness I;"La gigantesca nave espacial que antaño fue su hogar descansa frente a Aunia. Una cascada ámbar de Caliope sale del interior del casco e inunda el valle en que la Stilness I aterrizó hace tantos años.
+
+Cuando los siete llegaron por primera vez a este mundo… bueno, los seis, no se podría considerar que Edereta llegó con ellos… Cuando los seis llegaron y salieron del interior de la Stillness para colonizar el lugar y dejar atrás todo recuerdo del proyecto Sivid, Aunia nunca pensó que volvería la vista atrás.
+
+Pero aquí estaba. Ahora solo quedaban Edereta y ella. Aunia dejó de llevar la cuenta del tiempo hace, aproximadamente, 200 o 300 años. Siempre supo que al final solo quedarían ellas pero nunca estuvo seguro de si fue una decisión de Edereta o simple suerte. Pero ella lo sabía. Como también sabía, desde el primer día, que iba a ser ella la que tenía que acabar con todo. No podía dejar a Edereta sola, en realidad y por mucho que intentó apartarse, nunca la había dejado sola.
+
+Y ahora era el momento de que el viaje acabase para ambas. La Stillness había llegado demasiado lejos.
+";"The giant spaceship that was once her home rests in front of Aunia. An amber waterfall of Calliope pours from within the hull and floods the valley where the Stilness I landed so many years ago.
+
+When the seven first came to this world… well, the six, you couldn't consider that Edereta came with them… When the six arrived and left the interior of the Stillness to colonize the place and leave behind all memory of the Sivid project, Aunia never thought she would look back.
+
+But here she was. Now there was only her and Edereta left. Aunia stopped keeping track of time about 200 or 300 years ago. She always knew that in the end it would only be them, but she was never sure if it was Edereta's decision or just luck. But she knew. Just as she knew, from day one, that she was going to be the one to end it all. She couldn't leave Edereta alone, really, and as much as she tried to get away, she had never left her alone.
+
+And now it was time for the journey to end for both of them. The Stillness had gone too far.";Prender fuego a la nave;Set fire to the space ship;END_01;END_01;;;Abrazar la oscuridad de la Stillness para siempre;Embrace the darkness of the Stillness forever;END_02;END_02;;;;;;;;#
+0;TOMB;Monumento de descanso de Ivhan;Ivhan's resting place;"Ivhan fue en vida un hombre enérgico y espontáneo. Cuando una idea cruzaba su cabeza, debía llevarla a cabo. No es que fuese una opción, era un deber. Y desde que llegaron a este lugar, tuvo muchas ideas. La mayoría fueron malas, pero las buenas fueron muy buenas, eso hay que admitirlo. Fue de los primeros en unirse al proyecto SIVID cuando el IEMUL les cedió nuevos trabajadores. Aunia se había cruzado con él en las instalaciones mucho antes, era alguien agradable.
+
+Sus últimos años no lo fueron tanto. Ivhan nunca paraba de hacer cosas, construir nuevos aparatos o tratar de reinventar algo de lo que tenían en su hogar original. Pero algunas cosas aquí eran imposibles, Ivhan nunca aceptó eso.
+
+Elbura le contó que Ivhan estaba obsesionado con la Caliope. Decía, justo al final, que escuchaba voces susurrar desde dentro de las plantas. Acabó por ingerir una y falleció poco después.
+
+Enneges construyó un gran monumento coronado por una llama que jamás se apagaría, el cuerpo de Ivhan descansaba en el centro. Quizás, algún día, el fuego acabase con la Caliope y le dejaría descansar.";"Ivhan was an energetic and spontaneous man in life. When an idea crossed his mind, he had to carry it out. It wasn't an option, it was a duty. And since they arrived at this place, he had many ideas. Most of them were bad, but the good ones were very good, that must be admitted. He was one of the first to join the SIVID project when the IEMUL gave them new workers. Aunia had met him at the facilities long before, he was a nice person.
+
+His later years were not so. Ivhan never stopped doing things, building new devices or trying to reinvent something they had in their original home. But some things here were impossible, Ivhan never accepted that.
+
+Elbura told her that Ivhan was obsessed with the Caliope. He said, right at the end, that he heard voices whispering from inside the plants. He ended up ingesting one and died shortly after.
+
+Enneges built a great monument crowned by a flame that would never go out, with Ivhan's body resting in the center. Perhaps, one day, the fire would destroy the Calliope and let him rest.";Aunia mostrará sus respetos a Ivhan;Aunia will pay her respects to Ivhan;"Aunia asciende la ladera del monumento en silencio. Cuando va ya por mitad de camino el calor abrasador que emite la inmortal llama empieza a calentar su rostro. Cuando llega arriba del todo ya casi no puede aguantar el calor.
+
+En la entrada de la gigantesca urna que contiene la llama hay una esquela de metal escrita por Enneges. Dice lo siguiente:
+
+En recuerdo de un amigo, compañero, hermano. Este fuego que ahora reposa en ti nunca llegará a ser tan brillante como el que tú llevabas dentro.
+
+Aunia piensa durante un rato en la frase, agacha la cabeza y se despide de Ivhan por última vez mientras baja las escaleras, reconfortada por el calor de la llama. Ella también lo echaba de menos. A todos. Pero tiene un deber que cumplir.";"Aunia climbs the side of the monument in silence. When she is already halfway up the scorching heat emitted by the immortal flame begins to warm her face. When she reaches the top she can hardly bear the heat.
+
+At the entrance to the giant urn that contains the flame there is a metal notice written by Enneges. It says the following:
+
+In memory of a friend, companion, brother. This fire that now rests within you will never be as bright as the one you carried within you.
+
+Aunia thinks about the phrase for a while, lowers her head and says goodbye to Ivhan for the last time as she goes down the stairs, comforted by the warmth of the flame. She missed him too. All of them. But she has a duty to fulfill.";;2;Mirar al centro de la llama;Look at the center of the flame;"Aunia había estado anteriormente en la tumba de Ivhan pero nunca se había atrevido a subir al monumento. Enneges le garantizó que, mientras se mantuviese alejada de la llama, era seguro acercarse. A estas alturas la curiosidad impulsada por la cercanía al final del viaje pesaba más que la prudencia.
+
+Aunia subió rauda las escaleras y se adentra en el monumento, esquivando la esquela en memoria de Ivhan. Un gran pasillo se abría ante ella, al final estaba la llama.
+
+El centro del monumento era una especie de cuenco gigante de metal resistente al calor, si tocabas el exterior, al otro lado de la montaña, estaría frío. Pero de este lado era insoportable. Aunia notaba como le hervía la piel.
+
+Se acercó todo lo que pudo a la llama y miró fijamente al centro, le costó centrar la vista pero después de unos momentos pudo ver el cuerpo inerte de Ivhan completamente infestado de Caliope. Las llamas quemaban las plantas pero estas volvían a brotar, incansables, de su interior.
+
+Por un momento Aunia creyó ver que los ojos de Ivhan se movían. Asustada por ese descubrimiento dió la vuelta a la llama y se alegró de saber que nunca volvería a este lugar.";"Aunia had been to Ivhan's tomb before but had never dared to climb the monument. Enneges assured her that as long as she stayed away from the flame, it was safe to approach. At this point, curiosity driven by the proximity to the end of the journey outweighed prudence.
+
+Aunia quickly climbed the stairs and entered the monument, avoiding the obituary in memory of Ivhan. A large corridor opened before her, at the end was the flame.
+
+The center of the monument was a kind of giant heat-resistant metal bowl, if you touched the outside, on the other side of the mountain, it would be cold. But on this side it was unbearable. Aunia felt her skin boiling.
+
+She got as close to the flame as she could and stared at the center. It was difficult for her to focus her sight but after a few moments she could see Ivhan's lifeless body completely infested with Calliope. The flames burned the plants, but they sprouted again, tirelessly, from within.
+
+For a moment, Aunia thought she saw Ivhan's eyes moving. Frightened by this discovery, she turned the flame around and was glad to know that she would never return to this place.";;3;Retirarse en silencio;Withdraw in silence;"La visión del monumento era impresionante desde abajo. Aunia llevaba viendo la gran caldera del interior desde hacía días. Preparándose para el momento en que llegase a encontrarse al pie de la montaña.
+
+El momento había llegado, pero ella no estaba preparada. Realmente no estaba segura si llegaría a estarlo nunca. Pero hoy, especialmente, no lo estaba.
+
+Agacho la cabeza y cerró los ojos en disculpa con Ivhan. No era capaz de subir la montaña para verlo. Aunque no creía en ello, en ocasiones esperaba que de verdad hubiese algo más después de la muerte donde poder encontrarse con ellos de nuevo.";"The sight of the monument was impressive from below. Aunia had been watching the great caldera inside for days. Preparing herself for the moment when she would find herself at the foot of the mountain.
+
+The moment had come, but she was not ready. She really wasn't sure if she would ever be. But today, especially, she wasn't.
+
+She bowed her head and closed her eyes in apology to Ivhan. She was not able to climb the mountain to see him. Although she didn't believe in it, sometimes she hoped that there really was something more after death where she could meet them again.";;#
+1;TOMB;Descanso silencioso de Elbura;Silent rest of Elbura;"En mitad del páramo, rodeados de mucha nada, descansa Elbura. Sería una parada en el camino fácilmente olvidable si no sabes que está ahí. Igual que en vida, a Elbura no le gustaba la ostentación. Disfrutaba con poco y era feliz con menos. Le decía a todos que, por favor, cuando ya no estuviese, se olvidasen de grandes altares en su memoria. Ella solo quería descansar.
+
+Y así fue. Sin previo aviso un día simplemente no despertó. Los que aún quedaban en el primer asentamiento se internaron con sus restos en el páramo, caminaron durante días y finalmente levantaron una pequeña tumba bajo la cual enterraron a Elbura.
+
+Aunia no recuerda cuando sucedió todo esto, ni siquiera está segura de si se había enterado. Sabe fehacientemente que no queda nadie más aquí que ella, lo cual significa que todos se han ido, ya sea hace mucho o hace poco. Pero no es capaz de recordar si la noticia de la muerte de Elbura llegó hasta ella o nunca supo realmente cuando sucedió.";"In the middle of the moor, surrounded by nothing, lies Elbura. It would be an easily forgettable stop on the road if you don't know she's there. Just like in life, Elbura didn't like ostentation. She enjoyed little and was happy with less. She told everyone to please, when she was gone, forget about the great altars in her memory. She just wanted to rest.
+
+And so it was. Without warning, one day she simply didn't wake up. Those who were still in the first settlement went into the moor with her remains, walked for days, and finally raised a small grave under which they buried Elbura.
+
+Aunia doesn't remember when all this happened, she's not even sure if she had heard about it. She knows for a fact that there's no one else here but her, which means that everyone is gone, whether long ago or recently. But she can't remember if the news of Elbura's death reached her or if she never really knew when it happened.";Aunia mostrará sus respetos a Elbura;Aunia will pay her respects to Elbura;"Aún un poco lejos de la tumba Aunia se detiene y deja tras de sí sus pertenencias. Se retira la capucha y deja que el arisco viento del páramo se cuele entre su pelo. Una vez que se ha desprendido de todo, reanuda la marcha y se acerca a la lápida.
+
+Frente a ella, Aunia agacha la cabeza y cierra los ojos. Su mente repite unas palabras que pensaba haber olvidado. Todo lo que Elbura quiso descubrir en este lugar, todo lo que hizo. 
+
+De todos los que llegaron con ella, es a quien más echará de menos. Siempre la echó de menos.
+
+Levanta la vista y abre los ojos mientras observa el horizonte. Sonríe ligeramente, este lugar parece ser la nada a veces, pero gente como Elbura logró que fuese todo.";"Still a little far from the grave, Aunia stops and leaves her belongings behind. She pulls back her hood and lets the harsh wind of the moor blow through her hair. Once she has removed everything, she resumes her walk and approaches the tombstone.
+
+In front of her, Aunia lowers her head and closes her eyes. Her mind repeats words she thought she had forgotten. Everything Elbura wanted to discover in this place, everything she did.
+
+Of all those who came with her, this is the one she will miss the most. She always missed her.
+
+She looks up and opens her eyes as she looks at the horizon. She smiles slightly, this place seems to be nothing at times, but people like Elbura made it everything.";4;;Recordar a Elbura;Remembering Elbura;"Aunia anda hasta situarse frente a la lápida y se sienta con las piernas cruzadas junto a ella. Deja a un lado todo lo que lleva encima y suspira. Su mente vuela rápido a los primeros días, cuando llegaron al páramo.
+
+Elbura y Kara fueron las primeras en salir del valle en que aterrizó la Stillness y, junto a Enneges, establecieron el primer asentamiento. Muchos años vivieron allí, tranquilos, hasta que se quedó pequeño. Empezaban a ser más. De nuevo fueron Elbura y Kara quienes fueron de exploración y ubicaron otro emplazamiento. Y así se repitió con los años. El páramo parecía infinito, quizás lo era.
+
+Y siempre que empezaban su nueva vida, Elbura aprovechaba y estudiaba el nuevo lugar. Fauna, flora, nunca dejó de avanzar. Parecía que nada cambiaba en ella. Elbura fue miembro fundador del IEMUL, estuvo en muchos proyectos antes de SIVID, también fue una de las que creó el pre-proyecto para SIVID y estuvo desde el día uno involucrada en ello. Algunas de las ideas que más tarde desembocaron en la creación de Caliope fueron suyas.
+
+Aunia se mostraba agradecida con ella, siempre lo estuvo. Mientras se levantaba observó que junto a la tumba había algunas ofrendas, bastante sencillas todas. Un cuenco con algunas flores ya marchitas, algunas cajas y pequeñas fotos. Entre los muchos restos había un bote con algunas pastillas, Aunia reconoció el logo del IEMUL en ellas. Abrió el bote y se guardó un par. A cambio, sacó algunas raciones de su mochila y las dejó junto al resto.";"Aunia walks to the tombstone and sits cross-legged next to it. She puts aside everything she is carrying and sighs. Her mind quickly flies back to the first days, when they arrived at the moor.
+
+Elbura and Kara were the first to leave the valley where the Stillness landed and, together with Enneges, they established the first settlement. They lived there for many years, peacefully, until it became too small. There were starting to be more of them. Once again it was Elbura and Kara who went exploring and located another site. And so it repeated itself over the years. The moor seemed infinite, perhaps it was.
+
+And every time they started their new life, Elbura took advantage and studied the new place. Fauna, flora, she never stopped advancing. It seemed that nothing changed in her. Elbura was a founding member of IEMUL, she was in many projects before SIVID, she was also one of those who created the pre-project for SIVID and was involved in it from day one. Some of the ideas that later led to the creation of Caliope were hers.
+
+Aunia was grateful to her, she always was. As she stood up she noticed that next to the grave there were some offerings, all quite simple. A bowl with some already wilted flowers, some boxes and small photos. Among the many remains there was a bottle with some pills, Aunia recognized the IEMUL logo on them. She opened the bottle and kept a couple. In exchange, she took some rations from her backpack and left them with the rest.";14;;Retirarse en silencio;Withdraw in silence;"Aunia observó durante un rato la tumba desde lejos. Se encontraba a cientos de metros pero podía sentir la nostalgia correr hacía ella. Apartó la mirada cuando notó que unas tímidas lágrimas rozaban sus mejillas.
+
+A Aunia siempre le costó mucho desprenderse de la nostalgia. Ese sentimiento que emponzoña el alma. No era capaz de olvidar, por más que lo intentó. Se retiró a vivir en soledad al páramo porque empezaba a costarle compartir momentos con gente que se irían mucho antes que ella. Pensó que Elbura no sería uno de esos casos. Pero al final, todos se van antes.
+
+Con esa idea en menté y la tristeza en su corazón, Aunia continuó su viaje.";"Aunia looked at the grave from afar for a while. It was hundreds of meters away but she could feel the nostalgia running towards her. She looked away when she noticed that some timid tears were running down her cheeks.
+
+Aunia always had a hard time letting go of nostalgia. That feeling that poisons the soul. She was not able to forget, no matter how hard she tried. She retired to live alone on the moor because it was starting to be difficult for her to share moments with people who would leave long before her. She thought that Elbura would not be one of those cases. But in the end, everyone leaves sooner.
+
+With that idea in mind and sadness in her heart, Aunia continued her journey.";;#
+3;RUINS;" Ruinas aisladas";Isolated ruins;"Frente a Aunia descansa lo que queda de la carcasa de lo que antaño parecía ser un gran salón de piedra. La mitad superior así como la pared este han desaparecido y no hay ni rastro de las piedras con las que fue construida esa sección. Es como si un ente gigante, de un terrible golpe, las hubiese lanzado por los aires.
+
+Desde fuera se puede apreciar perfectamente el interior sin necesidad de acercarse a la puerta. Muebles destrozados y una gran mesa partida a la mitad son lo único que queda. 
+
+Da la impresión de que la estructura servía a algún propósito en concreto, pero parece no ser más que un gran salón de comidas.";"In front of Aunia lies the remains of the shell of what once appeared to be a large stone hall. The upper half and the east wall have disappeared and there is no trace of the stones from which that section was built. It is as if a giant entity, with a terrible blow, had thrown them into the air.
+
+From outside, the interior can be seen perfectly without having to go near the door. Shattered furniture and a large table broken in half are all that remains.
+
+It seems that the structure served some specific purpose, but it appears to be nothing more than a large dining hall.";Buscar superficialmente en el interior;Search superficially inside;"Aunia decide hacer un pequeño alto en el camino pero sin desviarse mucho de su rumbo, atraviesa lo que queda de la puerta y mira las estanterías. Solo queda polvo en ellas y los restos rotos de diferentes enseres para las mesas.
+
+Suspira, no esperaba encontrar nada realmente. Con esa idea en mente se acerca a los restos de la mesa. Hay comida esparcida por el suelo, la mayoría en mal estado, pero bajo un plato, accidentalmente cubierto para resistir las inclemencias del tiempo, encuentra un trozo de carne que quizás pueda aprovechar si está muy necesitada.
+
+Lleva ya mucho rato aquí. Guarda el trozo de carne en un trapo y lo mete en su mochila, dispuesta a reanudar el camino mientras se recuerda a sí misma que no todos los lugares son una mina de piedras preciosas.";"Aunia decides to make a short stop on the way but without deviating too much from her course. She goes through what remains of the door and looks at the shelves. Only dust remains on them and the broken remains of different tableware.
+
+She sighs, she didn't really expect to find anything. With that idea in mind, she approaches the remains of the table. There is food scattered on the floor, most of it spoiled, but under a plate, accidentally covered to resist the inclement weather, she finds a piece of meat that she might be able to use if she is in dire need.
+
+She has been here for a long time now. She puts the piece of meat in a rag and puts it in her backpack, ready to resume her journey while reminding herself that not every place is a mine of precious stones.";10;;Buscar a conciencia en las ruinas;Searching thoroughly in the ruins;"¿Por qué razón hay un salón en medio de la nada? Piensa Aunia. Parece un lugar de reunión, donde la gente compartía momentos largos mientras comía. Un lugar así necesita una cocina cerca y mirando al páramo que la rodea no ve nada así en las inmediaciones.
+
+Aunia pasa las siguientes horas explorando cada rincón que aún queda en pie de la estructura. Al fin da con lo que buscaba. Bajo un amasijo destrozado de tablones que antaño fueron unas lustrosas estanterías encuentra una pequeña trampilla que baja al subsuelo. Saca la fuente de luz que lleva guardada en la mochila y se interna en la oscuridad.
+
+Apenas unos metros bajo tierra encuentra la cocina, perfectamente conservada. Lo que pasó en la superficie no ha afectado al interior. Abre los cajones y la despensa, para su sorpresa aún encuentra algunas cosas útiles.
+
+Mientras vuelve a la superficie se lamenta un poco de haber empleado tanto tiempo en la búsqueda, pero hoy cenará bien con el botín que ha encontrado.";"Why is there a living room in the middle of nowhere? Aunia thinks. It looks like a meeting place, where people shared long moments while eating. A place like that needs a kitchen nearby and looking at the moor around her she sees nothing like that in the immediate vicinity.
+
+Aunia spends the next few hours exploring every corner of the structure that is still standing. At last she finds what she was looking for. Under a broken mass of planks that were once shiny shelves she finds a small trapdoor that goes down to the basement. She takes out the light source she has kept in her backpack and goes into the darkness.
+
+Just a few meters underground she finds the kitchen, perfectly preserved. What happened on the surface has not affected the interior. She opens the drawers and the pantry, to her surprise she still finds some useful things.
+
+As she returns to the surface she regrets a little having spent so much time searching, but today she will have a good dinner with the loot she has found.";1;9;No perder tiempo aquí;Don't waste time here;Desde lejos las ruinas despiertan cierta curiosidad en Aunia pero ya ha aprendido que en ocasiones hay que saber ahorrar el tiempo. Un montón de rocas en mitad de la nada a veces son simplemente más nada, es mejor emplear sus fuerzas en otra cosa.;From a distance, the ruins arouse a certain curiosity in Aunia, but she has already learned that sometimes you have to know how to save time. A pile of rocks in the middle of nowhere is sometimes just more nothing, it is better to use your energy on something else.;;10

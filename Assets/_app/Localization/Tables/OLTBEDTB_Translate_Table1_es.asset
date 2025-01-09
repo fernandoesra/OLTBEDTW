@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: OLTBEDTB_Translate_Table1_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 982e939e5843ca443ba0f866cd6cbc63, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 6658323105512423426
+  m_TableData:
+  - m_Id: 54978387968
+    m_Localized: OPCIONES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13083568742400
+    m_Localized: Nueva partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18935369408512
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18966579224576
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20525794959360
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32467179773952
+    m_Localized: "Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71667547611136
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71845113470976
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85313833115648
+    m_Localized: "Este juego ha sido realizado durante 3 meses (marzo 2024 - mayo
+      2024) por Fernando Tarri\xF1o del Pozo como proyecto de fin de grado del ciclo
+      formativo superior DAM (Desarrollo de aplicaciones multiplataformas). Todos
+      los recursos empleados en el desarrollo del proyecto son o bien creados por
+      el alumno o bien de fuentes completamente gratuitas a excepci\xF3n de algunos
+      objetos puntuales que se han realizado por usuarios colaborativos directamente
+      para el proyecto (con retribuci\xF3n monetaria o de forma desinteresada)\r.\n\r\nQuiero
+      agradecer todo el apoyo que he recibido durante este tiempo de mis profesores,
+      de mi pareja y de mis amigos. Este proyecto no habr\xEDa sido posible sin todos
+      ellos.\r\n\r\nLista completa de recursos usados:\n\r\nBocetos de la interfaz
+      - Irene Lloret Miguel\r\nAunia sprite - Silvia Ram\xEDrez del Barrio\nAssets
+      de base para la interfaz - Kenney free assets\r\nPixelFood - Henrysoftware\r\nUndead
+      Loot - FreeGameAssets\r\nPixelRPGIcons - Brullow\r\nPixelTexturePack - Jestan\nIm\xE1genes
+      de uso libre en GreenLeafTree\r\nIm\xE1genes de uso libre en Pixabay\r\nUnconvetional
+      Pixelart Icons - Jhonny Cortabraz\nCRT effect - Nekojin116\r\r\nNiebla - Etredal\nIcono
+      de cursor flor - Adrenochromedream\n\nSourceCodePro - GoogleFonts\r\nOldNewspaperTypes
+      - Manfred Klein\r\nVCR OSD Mono - Ricery Leal\r\n\r\nHaunted Forest Sounds
+      - The Guild of Ambience\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191329480450048
+    m_Localized: "Estad\xEDsticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194458041163776
+    m_Localized: "Men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552704090767360
+    m_Localized: PASOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552781802831872
+    m_Localized: TURNOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552863419793408
+    m_Localized: OBJETOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552893585227776
+    m_Localized: MUERTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552943476473856
+    m_Localized: FINALES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 777990933774336
+    m_Localized: "Reiniciar estad\xEDsticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778106851753984
+    m_Localized: "Esto devolver\xE1 todos los valores a 0\r\n\xBFEst\xE1s seguro?"
+    m_Metadata:
+      m_Items:
+      - rid: 6658323105512423426
+  - m_Id: 778227232473088
+    m_Localized: CONFIRMAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778289056514048
+    m_Localized: CANCELAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113533475389440
+    m_Localized: Aunia no ha logrado llegar al final del viaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156033271496704
+    m_Localized: Un evento aleatorio sucede mientras Aunia descansa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1959217946140672
+    m_Localized: "\xBFEst\xE1 Aunia segura de eliminar este objeto de su inventario?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2213956009041920
+    m_Localized: "P\xE1ramo de Penrose"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2296133908406272
+    m_Localized: Leyenda del mapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2297819385274368
+    m_Localized: "Localizaci\xF3n de Aunia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298673932771328
+    m_Localized: Hogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298687262269440
+    m_Localized: Stillness I - Fin del viaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298700293971968
+    m_Localized: Tumba abandonada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949031491731456
+    m_Localized: "El amurallado valle donde aterriz\xF3 la Stillness I descansa frente
+      a Aunia, infestado en su totalidad por las flores de Caliope. Intentaron detenerlas,
+      pero Aunia sab\xEDa que era una p\xE9rdida de tiempo. Edereta estar\xEDa aqu\xED
+      mucho m\xE1s que todos ellos, incluso que Aunia. Cuando el tiempo no es una
+      preocupaci\xF3n, terminas encontrando la manera. Y as\xED lo hizo Edereta.\r\n\r\nAunia
+      se adentra en los pasajes de la silenciosa nave, el eco de sus pisadas sobre
+      el suelo met\xE1lico inunda el interior. Hace eones que nadie entraba aqu\xED
+      pero nada ha cambiado. Todo sigue en el mismo lugar donde ellos lo dejaron
+      hace tanto tiempo atr\xE1s.\r\n\r\nPese a que hace tanto que no entra en la
+      nave a\xFAn recuerda la arquitectura. Los pasillos, las salas. Sabe d\xF3nde
+      est\xE1 todo. Pas\xF3 tanto tiempo en ella que ser\xEDa imposible olvidarlo.\r\n\r\nDespu\xE9s
+      de andar durante lo que parecen horas al fin llega al centro de la nave. El
+      n\xFAcleo del proyecto Sivid, donde Edereta descansa. Su cuerpo perfectamente
+      conservado por la Caliope es el coraz\xF3n de la nave, el inicio de todo.\r\n\r\nAunia
+      deja caer sus posesiones y abre la mochila. Saca la caja del lanzallamas y
+      se sienta a reposar durante un momento su decisi\xF3n. Pasado un largo tiempo,
+      quiz\xE1s d\xEDas\u2026 A Aunia le cuesta seguir el paso del tiempo ya\u2026
+      Deja de mirar a Edereta y abre la caja.\r\n\r\nY as\xED acaba todo, para ambas.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949043583909888
+    m_Localized: "El amurallado valle donde aterriz\xF3 la Stillness I descansa frente
+      a Aunia, infestado en su totalidad por las flores de Caliope. Intentaron detenerlas,
+      pero Aunia sab\xEDa que era una p\xE9rdida de tiempo. Edereta estar\xEDa aqu\xED
+      mucho m\xE1s que todos ellos, incluso que Aunia. Cuando el tiempo no es una
+      preocupaci\xF3n, terminas encontrando la manera. Y as\xED lo hizo Edereta.\r\n\r\nAunia
+      se adentra en los pasajes de la silenciosa nave, el eco de sus pisadas sobre
+      el suelo met\xE1lico inunda el interior. Hace eones que nadie entraba aqu\xED
+      pero nada ha cambiado. Todo sigue en el mismo lugar donde ellos lo dejaron
+      hace tanto tiempo atr\xE1s.\r\n\r\nPese a que hace tanto que no entra en la
+      nave a\xFAn recuerda la arquitectura. Los pasillos, las salas. Sabe d\xF3nde
+      est\xE1 todo. Pas\xF3 tanto tiempo en ella que ser\xEDa imposible olvidarlo.\r\n\r\nDespu\xE9s
+      de andar durante lo que parecen horas al fin llega al centro de la nave. El
+      n\xFAcleo del proyecto Sivid, donde Edereta descansa. Su cuerpo perfectamente
+      conservado por la Caliope es el coraz\xF3n de la nave, el inicio de todo.\r\n\r\nAunia
+      deja caer sus posesiones y se interna, a trav\xE9s del cristal roto, en el
+      n\xFAcleo del Sivid. Las flores de Caliope acarician sus manos mientras se
+      abraza al cuerpo de Edereta y durante un segundo cree escuchar su respiraci\xF3n.\r\n\r\n\u201CLamento
+      haber tardado tanto\u201D, dice Aunia. Luego cierra los ojos para siempre.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3070566936281088
+    m_Localized: Cargando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080271595241472
+    m_Localized: "\xBFSeguro que quieres volver al men\xFA principal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3372883342458880
+    m_Localized: Lugar desconocido
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 6658323105512423426
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00007f1eafc30200

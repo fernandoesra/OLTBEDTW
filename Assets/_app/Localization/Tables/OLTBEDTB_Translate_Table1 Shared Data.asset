@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: OLTBEDTB_Translate_Table1 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: OLTBEDTB_Translate_Table1
+  m_TableCollectionNameGuidString: 982e939e5843ca443ba0f866cd6cbc63
+  m_Entries:
+  - m_Id: 54978387968
+    m_Key: GM_001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13083568742400
+    m_Key: MM_001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18935369408512
+    m_Key: MM_002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18966579224576
+    m_Key: MM_003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20525794959360
+    m_Key: MM_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32467179773952
+    m_Key: MM_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71667547611136
+    m_Key: MM_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71845113470976
+    m_Key: MM_07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85313833115648
+    m_Key: MM_08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191329480450048
+    m_Key: MM_09
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194458041163776
+    m_Key: GM_002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552704090767360
+    m_Key: STADISTICS_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552781802831872
+    m_Key: STADISTICS_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552863419793408
+    m_Key: STADISTICS_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552893585227776
+    m_Key: STADISTICS_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552943476473856
+    m_Key: STADISTICS_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 777990933774336
+    m_Key: STADISTICS_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778106851753984
+    m_Key: STADISTICS_07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778227232473088
+    m_Key: CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778289056514048
+    m_Key: CANCEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113533475389440
+    m_Key: DEATH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156033271496704
+    m_Key: GM_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1959217946140672
+    m_Key: GM_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2213956009041920
+    m_Key: GM_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2296133908406272
+    m_Key: GM_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2297819385274368
+    m_Key: Map_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298673932771328
+    m_Key: Map_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298687262269440
+    m_Key: Map_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298700293971968
+    m_Key: Map_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949031491731456
+    m_Key: END_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949043583909888
+    m_Key: END_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3070566936281088
+    m_Key: GM_07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080271595241472
+    m_Key: GM_08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3372883342458880
+    m_Key: MAP_05
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6658323057023909888
+  references:
+    version: 2
+    RefIds:
+    - rid: 6658323057023909888
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716712941126

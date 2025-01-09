@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: OLTBEDTB_Translate_Table1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 982e939e5843ca443ba0f866cd6cbc63, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 54978387968
+    m_Localized: OPTIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13083568742400
+    m_Localized: New game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18935369408512
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18966579224576
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20525794959360
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32467179773952
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71667547611136
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71845113470976
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85313833115648
+    m_Localized: "This game has been developed during 3 months (March 2024 - May
+      2024) by Fernando Tarri\xF1o del Pozo as a final project of the DAM (Development
+      of multiplatform applications) superior degree. All the resources used in the
+      development of the project are either created by the student or from completely
+      free sources except for some specific objects that have been made by collaborative
+      users directly for the project (with monetary compensation or selflessly).\n\nI
+      want to thank all the support I have received during this time from my teachers,
+      my partner and my friends. This project would not have been possible without
+      all of them.\n\nComplete list of resources used\n\nInterface sketches - Irene
+      Lloret Miguel\nAunia sprite - Silvia Ram\xEDrez del Barrio\nBase assets for
+      the interface - Kenney free assets\nPixelFood - Henrysoftware\nUndead Loot
+      - FreeGameAssets\nPixelRPGIcons - Brullow\nPixelTexturePack - Jestan\nFree
+      use images at GreenLeafTree\nFree use images on Pixabay\nUnconvetional Pixelart
+      Icons - Jhonny Cortabraz\nCRT effect - Nekojin116\r\r\nFog - Etredal\nFlower
+      Icon Cursor - Adrenochromedream\n\nSourceCodePro - GoogleFonts\nOldNewspaperTypes
+      - Manfred Klein\nVCR OSD Mono - Ricery Leal\n\nHaunted Forest Sounds - The
+      Guild of Ambience"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191329480450048
+    m_Localized: Statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194458041163776
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552704090767360
+    m_Localized: STEPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552781802831872
+    m_Localized: TURNS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552863419793408
+    m_Localized: ITEMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552893585227776
+    m_Localized: DEATHS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552943476473856
+    m_Localized: ENDINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 777990933774336
+    m_Localized: Reset statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778106851753984
+    m_Localized: 'This will return all values to 0
+
+      You''re sure?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778227232473088
+    m_Localized: CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 778289056514048
+    m_Localized: CANCEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113533475389440
+    m_Localized: Aunia has not managed to reach the end of the journey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156033271496704
+    m_Localized: A random event happens while Aunia is resting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1959217946140672
+    m_Localized: Is Aunia sure to remove this inventory item from her inventory?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2213956009041920
+    m_Localized: Penrose Moor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2296133908406272
+    m_Localized: Map legend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2297819385274368
+    m_Localized: Location of Aunia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298673932771328
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298687262269440
+    m_Localized: Stillness I - End of the journey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298700293971968
+    m_Localized: Abandoned grave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949031491731456
+    m_Localized: "The walled valley where Stillness I landed lies before Aunia, infested
+      throughout by Calliope's flowers. They tried to stop them, but Aunia knew it
+      was a waste of time. Edereta would be here much longer than all of them, even
+      Aunia. When time is not a concern, you eventually find a way. And so Edereta
+      did.\n\nAunia walks into the passages of the silent ship, the echo of her footsteps
+      on the metal floor filling the interior. It has been eons since anyone entered
+      here but nothing has changed. Everything is still in the same place where they
+      left it so long ago.\n\nEven though it has been so long since she entered the
+      ship she still remembers the architecture. The hallways, the rooms. She knows
+      where everything is. She spent so much time in it that it would be impossible
+      to forget it.\n\nAfter walking for what seems like hours she finally reaches
+      the center of the ship. The core of the Sivid project, where Edereta rests.
+      Her body, perfectly preserved by the Caliope, is the heart of the ship, the
+      beginning of everything.\n\nAunia drops her possessions and opens her backpack.
+      She takes out the flamethrower box and sits down to reflect on her decision
+      for a moment. After a long time, perhaps days\u2026 Aunia finds it difficult
+      to follow the passage of time now\u2026 She stops looking at Edereta and opens
+      the box.\n\nAnd so it all ends, for both of them."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949043583909888
+    m_Localized: "The walled valley where Stillness I landed lies before Aunia, infested
+      throughout by Calliope's flowers. They tried to stop them, but Aunia knew it
+      was a waste of time. Edereta would be here much longer than all of them, even
+      Aunia. When time is not a concern, you eventually find a way. And so Edereta
+      did.\n\nAunia walks into the passages of the silent ship, the echo of her footsteps
+      on the metal floor filling the interior. It has been eons since anyone entered
+      here but nothing has changed. Everything is still in the same place where they
+      left it so long ago.\n\nEven though it has been so long since she entered the
+      ship she still remembers the architecture. The hallways, the rooms. She knows
+      where everything is. She spent so much time in it that it would be impossible
+      to forget it.\n\nAfter walking for what seems like hours she finally reaches
+      the center of the ship. The core of the Sivid project, where Edereta rests.
+      Her body, perfectly preserved by the Caliope, is the heart of the ship, the
+      beginning of everything.\n\nAunia drops her possessions and enters, through
+      the broken glass, into the core of the Sivid. Caliope flowers caress her hands
+      as she hugs Edereta's body and for a second she thinks she can hear her breathing.\n\n\u201CI'm
+      sorry it took me so long,\u201D says Aunia. Then she closes her eyes forever."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3070566936281088
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080271595241472
+    m_Localized: Are you sure you want to return to the main menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3372883342458880
+    m_Localized: Unknown place
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
