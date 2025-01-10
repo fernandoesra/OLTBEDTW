@@ -45,8 +45,8 @@ The map is randomly generated in each session. The description of the places, th
 
 # The magic of design
 
-@TODO
+**Under Construction**
 
 # The magic of programming
 
-@TODO
+**Under Construction**
