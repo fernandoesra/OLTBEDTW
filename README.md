@@ -45,7 +45,45 @@ The map is randomly generated in each session. The description of the places, th
 
 # The magic of design
 
-**Under Construction**
+The first challenge when designing the game was to conduct a study of the state of the art at a specific time in history. The game aims to emulate the way old CRPGs are played, games like [Eye of the Beholder](https://en.wikipedia.org/wiki/Eye_of_the_Beholder_(video_game)) or [Ultima I](https://es.wikipedia.org/wiki/Ultima_I:_The_First_Age_of_Darkness). To do this, a large number of sources were consulted, both open (such as [The CRPG Book Project](https://crpgbook.wordpress.com/)) and private ([A Guide to Japanese Role-Playing Games](https://www.bitmapbooks.com/products/a-guide-to-japanese-role-playing-games), [The CRPG Book](https://www.bitmapbooks.com/products/the-crpg-book-a-guide-to-computer-role-playing-games), others.). Inside the documents folder, you can consult several .pdf files (in Spanish) with the entire process in more detail.
+
+The most important points of development in the design stage were the following:
+- First, documentation and sketches (with the help of [Irene Lloret](https://linktr.ee/TuturuArt)) for the interface.
+- First sketches of game mechanics
+
+<div align="center">
+  <img src="https://i.imgur.com/VBFHvNn.png" width="800">
+  <br>
+  <p>Irene's sketches for the interface</p>
+</div>
+
+- Choice of the color palette
+
+<div align="center">
+  <img src="https://i.imgur.com/pfi4kuP.png" width="300">
+  <br>
+  <p>Palette for objects and most of the interface. TILESET uses a palette with more colors</p>
+</div>
+
+- Creation of frames for the interface and icons
+
+<div align="center">
+  <img src="https://i.imgur.com/4unIptg.png="800">
+  <br>
+  <p>Creating icons using Aseprite</p>
+</div>
+
+- Creation of the TILESET
+
+<div align="center">
+  <img src="https://i.imgur.com/hjJ0Tv4.gif="800">
+  <br>
+  <p>Animated Tileset</p>
+</div>
+
+The icons and frames were designed using free or purchased designs (with a modification license) on websites such as [https://itch.io/](itchi.io). The TILEST has been designed from scratch, along with its animations.
+
+TILESET LICENSE: The TILESET has been created by Fernando Esra and is 100% public, anyone can use it as long as they cite the author in the credits. A downloadable version can be found in the public_assets folder.
 
 # The magic of programming
 
